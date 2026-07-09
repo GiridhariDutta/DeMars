@@ -1,0 +1,7 @@
+{
+  "name": "demars-fieldops-link",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npx -y serve -l 8000 ."
+  }
+}
