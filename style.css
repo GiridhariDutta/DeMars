@@ -2,8 +2,8 @@
    DESIGN SYSTEM & VARIABLES
    ========================================================================== */
 :root {
-  --font-primary: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-  --font-display: 'Outfit', sans-serif;
+  --font-primary: 'Sora', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-display: 'Space Grotesk', sans-serif;
   
   /* Color Palette */
   --bg-primary: #0a0f1d;
