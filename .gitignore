@@ -17,3 +17,10 @@ __pycache__/
 .venv/
 venv/
 ENV/
+
+# Documents and scripts ignored
+*.py
+*.docx
+*.doc
+*.md
+*.pdf
